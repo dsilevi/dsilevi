@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dmitriy Silevi!
 - 👀 I’m interested in CI/CD, DEVOPS processes and methodologies, project and product management.
-- 🌱 I’m currently learning CI/CD pipelines with K8S. Laboratory is on arm64.
+- 🌱 I’m currently trying CI/CD to K8S on arm64.
 - 💞️ I’m looking to collaborate on DEVOPS processes.
 - 📫 How to reach me - just find me by "Dmitriy Silevi" on social networks.
